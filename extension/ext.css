@@ -1,0 +1,29 @@
+body
+{
+  background-color: #9ED2C6;
+  margin:0;
+  padding:0;
+  text-align: center;
+}
+#footer
+{
+  padding: 0.5% 4% 0.5%;
+  background-color:#fff;
+}
+.footer-icons
+{
+  margin:20px 10px;
+}
+.cons
+{
+  background-color: #9ED2C6;
+}
+h1
+{
+  font-family:'Sacramento', cursive;
+  font-size: 5rem;
+}
+h2
+{
+  font-family:'Montserrat';
+}
